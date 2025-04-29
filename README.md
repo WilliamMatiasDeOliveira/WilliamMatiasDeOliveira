@@ -1,5 +1,14 @@
 ### Olá eu sou William Matias de Oliveira 👋
 Futuro Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma
+
+##
+
+<div>
+  <a href="https://github.com/WilliamMatiasDeOliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamMatiasDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMatiasDeOliveira&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>
+</div>
 ##
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
@@ -24,17 +33,6 @@ Futuro Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>  
 </div>
-
-##
-
-<div>
-  <a href="https://github.com/WilliamMatiasDeOliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamMatiasDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMatiasDeOliveira&layout=compact&langs_count=16&theme=tokyonight"/>
-  </a>
-</div>
-
-
 
 ##
 
