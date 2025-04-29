@@ -9,7 +9,7 @@ Futuro Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMatiasDeOliveira&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
-##
+
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
