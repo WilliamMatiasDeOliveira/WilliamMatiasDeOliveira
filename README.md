@@ -5,8 +5,9 @@ Futuro Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma
 
 <div>
   <a href="https://github.com/WilliamMatiasDeOliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamMatiasDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMatiasDeOliveira&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamMatiasDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMatiasDeOliveira&layout=compact&langs_count=16&theme=tokyonight&cache_seconds=0"/>
+
   </a>
 </div>
 
