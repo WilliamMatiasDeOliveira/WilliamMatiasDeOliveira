@@ -1,6 +1,8 @@
 ### Olá eu sou William Matias de Oliveira 👋
 Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma  
-Programar é mais doque uma profissão, é um hobby
+> "O presente é deles; o futuro, pelo qual realmente trabalhei, é meu."
+> 
+> — Nikola Tesla
 
 ##
 
