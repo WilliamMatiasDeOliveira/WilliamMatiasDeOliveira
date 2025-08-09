@@ -1,5 +1,5 @@
 ### Olá eu sou William Matias de Oliveira 👋
-Futuro Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma
+Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma
 
 ##
 
