@@ -1,8 +1,8 @@
 ### Olá eu sou William Matias de Oliveira 👋
 Engenheiro de Software e Estudante de Desenvolvimento Web Multiplataforma  
-> "O presente é deles; o futuro, pelo qual realmente trabalhei, é meu."
+> "Uma máquina pode fazer o trabalho de cinquenta homens comuns. Nenhuma máquina pode fazer o trabalho de um homem extraordinário."
 > 
-> — Nikola Tesla
+> — Elbert Hubbard
 
 ##
 
