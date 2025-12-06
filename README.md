@@ -17,17 +17,10 @@
     alt="Resumo do GitHub"
   />
 
-  <!-- Estatísticas em formato de boletim -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamMatiasDeOliveira&theme=tokyonight" 
-    alt="Estatísticas do GitHub"
-  />
+| Estatísticas | Sequência |
+|------------|-----------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamMatiasDeOliveira&theme=tokyonight" alt="Estatísticas do GitHub" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamMatiasDeOliveira&theme=tokyonight" alt="Sequência de Contribuições" /> |
 
-  <!-- Score de sequência -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamMatiasDeOliveira&theme=tokyonight" 
-    alt="Sequência de Contribuições"
-  />
 
 </div>
 
