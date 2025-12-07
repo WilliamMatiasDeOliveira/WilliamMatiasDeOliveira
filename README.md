@@ -61,7 +61,9 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Trabalhando em projetos pessoais  
-- 🌱 Estudando Javascript e aprimorando back-end PHP/Laravel  
+- 🔭 Desenvolvendo projetos pessoais voltados ao back-end  
+- 🌱 Estudando Javascript e aprimorando PHP/Laravel diariamente  
+- 🎯 Em busca de uma oportunidade de estágio na área de desenvolvimento  
 - 📫 Contato: **williammatiasjau@hotmail.com**  
 - 😄 Pronomes: Ele/Dele  
+
