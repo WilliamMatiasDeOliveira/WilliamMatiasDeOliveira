@@ -65,6 +65,6 @@
 - 🔭 Desenvolvendo projetos pessoais voltados ao back-end  
 - 🌱 Estudando Javascript e aprimorando PHP/Laravel diariamente  
 - 🎯 Em busca de uma oportunidade de estágio na área de desenvolvimento  
-- 📫 Contato: **williammatiasjau@hotmail.com**  
+- 📫 Contato: **williammatiadeoliveira@gmail.com**  
 - 😄 Pronomes: Ele/Dele  
 
