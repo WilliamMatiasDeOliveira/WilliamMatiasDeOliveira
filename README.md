@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou William Matias de Oliveira  
-**Engenheiro de Software | Desenvolvedor Back-End PHP | Estudante de Desenvolvimento de Software Multiplataforma**
+**Engenheiro de Software | Desenvolvedor Back-End | Estudante de Desenvolvimento de Software Multiplataforma**
 
 > "Uma máquina pode fazer o trabalho de cinquenta homens comuns.  
 > Nenhuma máquina pode fazer o trabalho de um homem extraordinário."  
